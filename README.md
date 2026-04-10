@@ -1,4 +1,4 @@
-# Cloud-Computing
+# AWS Cloud-Computing
 # EC2 Static Website Hosting
 
 This project demonstrates hosting a static website on AWS EC2 using Apache web server.
